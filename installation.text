@@ -1,0 +1,12 @@
+download anaconda
+how to start jupyter noteboojk
+-->jupyter notebook
+how to remove conda nev ?
+-->list conda env ---> conda info --envs (conda list)
+--> Deactivate env--->conda deactivate
+--->Remove env --->conda env remove --name environment_name
+create virtual env?
+---> conda create -p lanchain_venv python-3.9 -yes
+(-p meanse in current working folder)
+(-n meanse in default working directory)
+conda create -p myappenv python=3.9 --yes   
